@@ -7,3 +7,4 @@ mvn -Pnative -DskipTests clean native:compile
 java -agentlib:native-image-agent=config-output-dir=C:\Demos\graalvm\src\main\resources\META-INF\native-image  -jar .\target\graalvm-0.0.1-SNAPSHOT.jar 
 3、PowerShell中进入项目target目录下
 .\graalvm.exe
+![image](https://github.com/cmdch2017/SpringNative_Graalvm_Mybatis/assets/32605664/1060622f-be8f-4c60-b73b-4cec71c89b83)
