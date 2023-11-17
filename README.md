@@ -15,6 +15,8 @@ INSERT INTO persons (id, name, age) VALUES
                                         (3, 'Bob Johnson', 22);
                                     
 访问端口：http://localhost:8086/person/list
+![Uploading image.png…]()
+
 ![image](https://github.com/cmdch2017/SpringNative_Graalvm_Mybatis/assets/32605664/1060622f-be8f-4c60-b73b-4cec71c89b83)
 ## 核心启动步骤
 SpringNative
